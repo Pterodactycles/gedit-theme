@@ -1,0 +1,59 @@
+
+<style-scheme id="pterod" name="Pterodactycles" version="1.0">
+
+<author> Pterodactycles </author>
+<_description> Strong yellows and  </_description>
+
+<color name="off-white"     value="#FAFACB"/>
+<color name="otheroffwhite" value="#F8F8F0"/>
+<color name="moreoffwhite"  value="#bcbca7"/>
+<color name="mauve"         value="#AE81FF"/>
+<color name="muted-yellow"  value="#E6DB74"/>
+<color name="yellow"        value="#FFF000"/>
+<color name="redgray"       value="#89807D"/>
+<color name="darkredgray"   value="#4C4745"/>
+<color name="mid-pink"      value="#960050"/>
+<color name="dark-pink"     value="#1E0010"/>
+<color name="light-lime"    value="#A6E22E"/>
+<color name="orange"        value="#FD971F"/>
+<color name="pink"          value="#F92672"/>
+<color name="black"         value="#000000"/>
+<color name="mid-orange"    value="#FD971F"/>
+<color name="light-green"   value="#A6E22E"/>
+<color name="white"         value="#FFFFFF"/>
+<color name="bluegray"      value="#455354"/>
+<color name="light-blue"    value="#66D9EF"/>
+<color name="light-pink"    value="#F92672"/>
+<color name="charcoal"      value="#272822"/>
+<color name="yellowgray"    value="#75715E"/>
+<color name="mediumgray"    value="#3E3D32"/>
+<color name="midgray"       value="#3b3a32"/>
+<color name="darkish-green" value="#678D1A"/>
+<color name="dark-olive"    value="#476112"/>
+
+<style name="def:boolean"           foreground="mauve"/>
+<style name="def:number"            foreground="mauve"/>
+<style name="def:string"            foreground="muted-yellow"/>
+<style name="def:constant"          foreground="mauve"          bold="true"/>
+<style name="cursor"                foreground="yellow"         background="otheroffwhite"/>
+<style name="diff:added-line"       background="dark-olive"/>
+<style name="diff:changed-line"     foreground="redgray"        background="darkredgray"/>
+<style name="diff:removed-line"     foreground="mid-pink"       background="dark-pink"/>
+<style name="def:error"             foreground="mid-pink"       background="dark-pink"/>
+<style name="def:function"          foreground="light-lime"/>
+<style name="def:identifier"        foreground="orange"/>
+<style name="def:keyword"           foreground="pink"           bold="true"/>
+<style name="bracket-match"         foreground="black"          background="mid-orange" bold="true"/>
+<style name="def:preprocessor"      foreground="light-green"/>
+<style name="search-match"          foreground="white"          background="bluegray"/>
+<style name="def:specials"          foreground="light-blue"     italic="true"/>
+<style name="def:statement"         foreground="light-pink"     bold="true"/>
+<style name="def:type"              foreground="light-blue"/>
+<style name="text"                  foreground="off-white"      background="charcoal"/>
+<style name="def:comment"           foreground="yellowgray"/>
+<style name="current-line"          background="mediumgray"/>
+<style name="line-numbers"          foreground="moreoffwhite"   background="midgray"/>
+<style name="selection"             background="darkish-green"/>
+<style name="selection-unfocused"   foreground="off-white"      background="darkish-green"/>
+
+</style-scheme>
